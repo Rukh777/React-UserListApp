@@ -1,0 +1,14 @@
+{
+	"id": 2,
+	"name": "Glinda Southgood",
+	"email": "glinda@test.com",
+	"phone": "987654321",
+	"city": "Mangalore",
+	"state": "karnataka",
+	"country": "India",
+	"organization": "Company 2",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Products Rarely",
+	"start_time": "Mar 1 2020  11:11AM",
+	"end_time": "Mar 1 2020 2:00PM"
+}
